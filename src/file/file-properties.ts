@@ -8,4 +8,6 @@ export interface IFileProperties {
 /**
  * @ignore
  */
+
+// test comment
 export const WORKAROUND = "";
